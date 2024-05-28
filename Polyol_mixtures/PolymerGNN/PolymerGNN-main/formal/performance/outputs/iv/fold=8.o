@@ -1,0 +1,24 @@
+        IV
+0    0.279
+1    0.321
+2    0.272
+3    0.257
+4    0.260
+..     ...
+291  0.584
+292  0.587
+293  0.538
+294  0.357
+295  0.548
+
+[296 rows x 1 columns]
+Fold: 1 	 Test r2: 0.7551 	 Test Loss: 0.0094 	 Test MAE: 0.0570
+Fold: 2 	 Test r2: 0.6356 	 Test Loss: 0.0260 	 Test MAE: 0.0721
+Fold: 3 	 Test r2: 0.8117 	 Test Loss: 0.0064 	 Test MAE: 0.0520
+Fold: 4 	 Test r2: 0.8669 	 Test Loss: 0.0059 	 Test MAE: 0.0527
+Fold: 5 	 Test r2: 0.8608 	 Test Loss: 0.0064 	 Test MAE: 0.0442
+Final avg. r2:  0.7860022696901113
+Final avg. MSE: 0.010824343607891957
+Final avg. MAE: 0.055593220519573515
+R2: 0.7860022696901113 +- 0.0
+MAE: 0.055593220519573515 +- 0.0

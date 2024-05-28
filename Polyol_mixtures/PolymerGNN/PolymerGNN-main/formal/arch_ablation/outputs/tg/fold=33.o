@@ -1,0 +1,10 @@
+Fold: 1 	 Test r2: 0.9081 	 Test Loss: 174.4427 	 Test MAE: 9.5959
+Fold: 2 	 Test r2: 0.9008 	 Test Loss: 125.3380 	 Test MAE: 7.8349
+Fold: 3 	 Test r2: 0.8315 	 Test Loss: 219.0530 	 Test MAE: 10.3251
+Fold: 4 	 Test r2: 0.8832 	 Test Loss: 135.4189 	 Test MAE: 9.7504
+Fold: 5 	 Test r2: 0.9581 	 Test Loss: 58.3944 	 Test MAE: 5.7462
+Final avg. r2:  0.8963298839817524
+Final avg. MSE: 142.52940156127158
+Final avg. MAE: 8.650498247146606
+R2: 0.8963298839817524 +- 0.0
+MAE: 8.650498247146606 +- 0.0

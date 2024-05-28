@@ -1,0 +1,7 @@
+README.md
+setup.py
+polymerlearn/__init__.py
+polymerlearn.egg-info/PKG-INFO
+polymerlearn.egg-info/SOURCES.txt
+polymerlearn.egg-info/dependency_links.txt
+polymerlearn.egg-info/top_level.txt

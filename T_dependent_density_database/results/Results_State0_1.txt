@@ -1,0 +1,220 @@
+Results of: State0
+
+
+predicting density...
+
+
+number of feats: 31
+AvgIpc
+BCUT2D_MRHI
+BertzCT
+Chi0n
+Chi0v
+Chi2n
+Chi2v
+Chi3n
+Chi3v
+Chi4v
+EState_VSA4
+EState_VSA7
+FpDensityMorgan1
+FpDensityMorgan2
+Ipc
+Kappa2
+Kappa3
+LabuteASA
+MaxEStateIndex
+MaxPartialCharge
+MinAbsPartialCharge
+MinEStateIndex
+MinPartialCharge
+MolLogP
+MolMR
+PEOE_VSA6
+SMR_VSA7
+SPS
+VSA_EState8
+fr_unbrch_alkane
+Tsim
+average training r2-score: 0.9216
+average valid r2-score: 0.8392
+average test r2-score: 0.9036
+average test RMSE-score: 0.6424
+Time: 3517.149541711
+
+
+number of feats: 41
+BCUT2D_LOGPLOW
+BCUT2D_MRHI
+BCUT2D_MWLOW
+BalabanJ
+BertzCT
+Chi0v
+Chi1
+Chi1n
+Chi1v
+Chi2n
+Chi2v
+Chi3n
+Chi3v
+Chi4n
+Chi4v
+EState_VSA4
+EState_VSA5
+EState_VSA7
+FpDensityMorgan1
+FpDensityMorgan2
+FpDensityMorgan3
+Kappa2
+Kappa3
+LabuteASA
+MaxAbsEStateIndex
+MaxEStateIndex
+MaxPartialCharge
+MinAbsEStateIndex
+MinAbsPartialCharge
+MinEStateIndex
+MolLogP
+MolMR
+MolWt
+NumValenceElectrons
+PEOE_VSA6
+SMR_VSA7
+SPS
+VSA_EState5
+VSA_EState8
+qed
+Tsim
+average training r2-score: 0.9766
+average valid r2-score: 0.8833
+average test r2-score: 0.896
+average test RMSE-score: 0.6266
+Time: 4892.3882447470005
+
+
+number of feats: 51
+AvgIpc
+BCUT2D_CHGHI
+BCUT2D_LOGPHI
+BCUT2D_LOGPLOW
+BCUT2D_MRHI
+BCUT2D_MRLOW
+BalabanJ
+BertzCT
+Chi0
+Chi0n
+Chi0v
+Chi1
+Chi1n
+Chi1v
+Chi2n
+Chi2v
+Chi3n
+Chi3v
+Chi4n
+Chi4v
+EState_VSA4
+EState_VSA7
+ExactMolWt
+FpDensityMorgan1
+FpDensityMorgan2
+FpDensityMorgan3
+FractionCSP3
+HeavyAtomCount
+HeavyAtomMolWt
+Kappa1
+Kappa2
+Kappa3
+MaxAbsEStateIndex
+MaxAbsPartialCharge
+MaxEStateIndex
+MaxPartialCharge
+MinAbsEStateIndex
+MinAbsPartialCharge
+MinEStateIndex
+MolLogP
+MolMR
+NumRotatableBonds
+PEOE_VSA6
+PEOE_VSA7
+SMR_VSA7
+SPS
+VSA_EState7
+VSA_EState8
+fr_unbrch_alkane
+qed
+Tsim
+average training r2-score: 0.9705
+average valid r2-score: 0.8458
+average test r2-score: 0.8941
+average test RMSE-score: 0.6713
+Time: 3862.0625064059986
+
+
+number of feats: 61
+AvgIpc
+BCUT2D_CHGHI
+BCUT2D_CHGLO
+BCUT2D_LOGPHI
+BCUT2D_LOGPLOW
+BCUT2D_MRHI
+BCUT2D_MRLOW
+BCUT2D_MWHI
+BCUT2D_MWLOW
+BalabanJ
+BertzCT
+Chi0
+Chi0n
+Chi0v
+Chi1
+Chi1n
+Chi1v
+Chi2n
+Chi2v
+Chi3n
+Chi3v
+Chi4n
+Chi4v
+EState_VSA4
+EState_VSA5
+EState_VSA7
+EState_VSA8
+ExactMolWt
+FpDensityMorgan1
+FpDensityMorgan2
+FpDensityMorgan3
+FractionCSP3
+Ipc
+Kappa1
+Kappa2
+Kappa3
+LabuteASA
+MaxAbsEStateIndex
+MaxEStateIndex
+MaxPartialCharge
+MinAbsEStateIndex
+MinAbsPartialCharge
+MinEStateIndex
+MinPartialCharge
+MolLogP
+MolMR
+MolWt
+NumValenceElectrons
+PEOE_VSA6
+PEOE_VSA7
+SMR_VSA4
+SMR_VSA5
+SPS
+SlogP_VSA6
+VSA_EState4
+VSA_EState5
+VSA_EState7
+VSA_EState8
+fr_unbrch_alkane
+qed
+Tsim
+average training r2-score: 0.978
+average valid r2-score: 0.8589
+average test r2-score: 0.8771
+average test RMSE-score: 0.7224
+Time: 2405.928495444001

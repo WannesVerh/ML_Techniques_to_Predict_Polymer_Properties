@@ -1,0 +1,90 @@
+Results of: State0
+
+
+predicting density...
+
+
+number of feats: 6
+Chi0n
+Chi0v
+Chi3v
+MaxPartialCharge
+SMR_VSA7
+Tsim
+average training r2-score: 0.9936
+average valid r2-score: 0.661
+average test r2-score: 0.7199
+average test RMSE-score: 1.0271
+Time: 6335.435233889
+
+
+number of feats: 11
+BCUT2D_MRHI
+BalabanJ
+Chi0n
+Chi1
+Chi2v
+ExactMolWt
+MaxPartialCharge
+MolMR
+SlogP_VSA6
+VSA_EState8
+Tsim
+average training r2-score: 0.994
+average valid r2-score: 0.7499
+average test r2-score: 0.7333
+average test RMSE-score: 1.0284
+Time: 3038.2161036550006
+
+
+number of feats: 16
+BCUT2D_LOGPLOW
+BCUT2D_MRHI
+BertzCT
+Chi0n
+Chi0v
+Chi1
+Chi2v
+Chi3n
+Kappa2
+LabuteASA
+MaxPartialCharge
+MolLogP
+MolMR
+SlogP_VSA6
+VSA_EState8
+Tsim
+average training r2-score: 0.991
+average valid r2-score: 0.7542
+average test r2-score: 0.7469
+average test RMSE-score: 1.0467
+Time: 1991.3469497459992
+
+
+number of feats: 21
+AvgIpc
+BCUT2D_MRHI
+BertzCT
+Chi0
+Chi0n
+Chi0v
+Chi3n
+EState_VSA5
+Ipc
+Kappa1
+Kappa2
+MaxPartialCharge
+MinAbsEStateIndex
+MinAbsPartialCharge
+MolLogP
+MolMR
+PEOE_VSA6
+SMR_VSA7
+VSA_EState8
+qed
+Tsim
+average training r2-score: 0.9801
+average valid r2-score: 0.8394
+average test r2-score: 0.7777
+average test RMSE-score: 1.0069
+Time: 4383.203363884

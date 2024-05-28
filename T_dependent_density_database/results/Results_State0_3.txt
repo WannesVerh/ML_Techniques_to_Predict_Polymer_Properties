@@ -1,0 +1,16 @@
+Results of: State0
+
+
+predicting density...
+
+
+number of feats: 4
+Chi0v
+MaxPartialCharge
+SlogP_VSA6
+Tsim
+average training r2-score: 0.9871
+average valid r2-score: 0.6932
+average test r2-score: 0.6881
+average test RMSE-score: 1.1954
+Time: 6977.815105825999
