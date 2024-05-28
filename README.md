@@ -1,4 +1,4 @@
-Welcome to the repository of my master thesis where all the files concerning my master thesis can be found. This project aims to leverage the power of machine learning algorithms to accurately forecast properties of polymers, such as atomization energies, HOMO energies, densities, boiling points etc. By integrating data-driven models, we strive to enhance the efficiency of polymer recycling, providing valuable insights and information that can accelerate research and development in the polymer recycling industry science.
+Welcome to the repository where all the files concerning my master thesis can be found. This project aims to leverage the power of machine learning algorithms to accurately forecast properties of polymers, such as atomization energies, HOMO energies, densities, boiling points etc. By integrating data-driven models, we strive to enhance the efficiency of polymer recycling, providing valuable insights and information that can accelerate research and development in the polymer recycling industry science.
 For every diffrent dataset that was handled durign my thesis, another repository can be found:
 
 <details>
